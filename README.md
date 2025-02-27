@@ -5,13 +5,24 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
-software engeneering is a branch of computer science used for developing,testing and maintaining software.efficiency-it helps optimise developer work flow while maintaining high quality.reliability-it ensures software performs as expected without bias.security-implement protection practice like authentification,authorisation and encription to secure user information.scalability and flexibility-it ensures the system can handle an increased load without affecting performance.
+software engineering is a branch of computer science used for developing, testing and maintaining software.
+reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
+efficiency - it helps to optimize developer workflow while maintaining high quality standards.
+ scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
+ security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-mastering complexity-it refers to the ability to manage control,and simplify inherent complexity of software systems.mastering machine-this refers to the process of understanding,controlling and optimising computer and software system to perform task efficiently.Mastering process-it refers to gaining a deep understanding,control and optimisation of a work flow or system to achieve efficiency,consitency and high quality outcomes
+
+.mastering complexity
+Mastering process
+Mastering machine
 
 List and briefly explain the phases of the Software Development Life Cycle.
-planning-identify the software requirement or purpose and scope.Requirement analysis-identify the final user specification.Design-building the frame work.Coding-converting software design into tangible code.Testing-examine the software for any bugs
+ planning - identify the software requirement or purpose and scope.
+ requirement analysis - identify the final user specification. 
+design - building the framework. 
+coding - converting software design into tangible code.
+ testing - examine the software for any bugs and glitches
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
